@@ -342,7 +342,3 @@ n=40.0
 for i in range(20,26):
      n=n/2.0
      fonction_generale(n,i)
-
-fonction_generale(0.4,400)
-
-
